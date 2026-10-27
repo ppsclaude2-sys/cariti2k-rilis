@@ -1,3 +1,3 @@
-# cariti2k (rilis)
+# ELAM (rilis)
 
-Unduh APK terbaru: file cariti2k-v*.apk di repositori ini. Aplikasi membaca versi.json untuk memberi tahu versi baru.
+ELAM — Eksplorasi Lapangan Akurat dan Mudah (dulu cariti2k). Unduh APK terbaru: file ELAM-v*.apk di repositori ini. Aplikasi membaca versi.json untuk memberi tahu versi baru.
